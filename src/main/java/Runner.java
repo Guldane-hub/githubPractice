@@ -4,5 +4,9 @@ public class Runner {
 //github reposunda degisiklik g
 
         // guldane degisiklik yapti
+
+        System.out.println();
+
+        System.out.println();
     }
 }
